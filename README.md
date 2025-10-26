@@ -7,7 +7,7 @@
 
 ---
 
-I’m a Frontend Engineer with 6+ years of experience developing scalable, maintainable, and high-performance web applications for fintech, e-commerce, and enterprise platforms.
+I’m a Frontend Engineer with 8+ years of experience developing scalable, maintainable, and high-performance web applications for fintech, e-commerce, and enterprise platforms.
 
 My focus goes beyond building UI — I work across the full web development lifecycle: from creating modular design systems and performance-optimized interfaces to implementing robust CI/CD pipelines and collaborating on scalable backend architectures.
 
