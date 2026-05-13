@@ -2,7 +2,6 @@
 
 Software Engineer building interfaces that run in production.  
 Fintech, high-availability systems, applied AI — at [andrey.dev.br](https://www.andrey.dev.br).
-React · Next.js · Angular · TypeScript · Node · GraphQL · Tailwind · AWS · Datadog
 
 ### Recent work
 
