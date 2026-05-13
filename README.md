@@ -1,29 +1,20 @@
-## 👨‍💻 Andrey Rattes — Frontend Engineer
+## Andrey Rattes
 
-### ⚙️ Tech Stack & Tools:
-`React` • `Next.js` • `Angular` • `TypeScript` • `JavaScript`  
-`Node.js` • `GitHub Actions` • `CI/CD` • `Design Systems` • `Web Performance`  
-`Jest` • `Storybook` • `Figma` • `REST APIs` • `Modular Architecture`
+Software Engineer building interfaces that run in production.  
+Fintech, high-availability systems, applied AI — at [andrey.dev.br](https://www.andrey.dev.br).
+React · Next.js · Angular · TypeScript · Node · GraphQL · Tailwind · AWS · Datadog
 
----
+### Recent work
 
-I’m a Frontend Engineer with 8+ years of experience developing scalable, maintainable, and high-performance web applications for fintech, e-commerce, and enterprise platforms.
+- **Banking platform** — three years on a fintech with 1M+ monthly users. Incremental legacy migration with feature flags in real environments and end-to-end observability.
+- **Performance** — took a high-traffic acquisition platform from Lighthouse 28 to 95+, LCP under 1.2s in production.
+- **AI automation flows** — LLM pipelines in production with monitoring dashboards, retry queues, cost-per-run tracked. AI that ships results, not black boxes.
+- **Design systems** — semantic tokens, accessible-by-default components, docs PMs read without scheduling a meeting.
 
-My focus goes beyond building UI — I work across the full web development lifecycle: from creating modular design systems and performance-optimized interfaces to implementing robust CI/CD pipelines and collaborating on scalable backend architectures.
+### How I work
 
-### 💼 Highlights:
-- 🔧 **CI/CD Automation**: Implemented and maintained automated pipelines using GitHub Actions, accelerating secure and reliable deployments.
-- 🏦 **Digital Acquisition**: Built customer acquisition flows for high-traffic banking platforms, prioritizing performance, usability, and accessibility.
-- 🚀 **Performance Optimization**: Boosted Google Lighthouse scores (28 → 80+) on business-critical pages through code splitting, lazy loading, and DOM efficiency.
-- 🧩 **Design Systems**: Designed and maintained reusable component libraries and scalable UI frameworks, improving consistency across teams and products.
-- 🌐 **Cross-functional Collaboration**: Worked with product managers, designers, and backend engineers in agile teams across Brazil and the US.
-
-### 🎯 What I Care About:
-- Clean, modular, and testable code  
-- Developer experience and maintainability  
-- Measurable performance improvements  
-- Team alignment and long-term scalability
+PR is context, not just diff. Production-grade from the first commit: TypeScript strict, feature flags on risky changes, runbooks before deploy. Architecture the next dev can inherit without asking me.
 
 ---
 
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/andrey-azevedo)
+[Portfolio](https://www.andrey.dev.br) · [LinkedIn](https://www.linkedin.com/in/andrey-azevedo/)
